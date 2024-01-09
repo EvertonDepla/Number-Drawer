@@ -18,6 +18,9 @@
 <h3 align="center"> Versão Mobile</h3>
 
 <img src="https://github.com/EvertonDepla/Number-Drawer/blob/master/assets/numberdrawermobile.PNG?raw=true" alt="print-site2" width="300px">
+
+ <h3 align="center"> Versão Tablet</h3>
+ 
  <p>
 
 Acesso ao projeto <a href="">Clique Aqui <a>
