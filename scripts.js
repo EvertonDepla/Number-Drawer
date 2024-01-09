@@ -6,6 +6,7 @@ function generateNumber() {
     if (min >= max) {
         alert("The minimum value must be LESS than the maximum value")
     }
+    
     else {
         const finalResult = Math.floor(Math.random() * (max - min + 1)) + min
 
