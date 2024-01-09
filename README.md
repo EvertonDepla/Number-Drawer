@@ -17,9 +17,19 @@
 
 <h3 align="center"> Versão Mobile</h3>
 
+<div align="center">
+
 <img src="https://github.com/EvertonDepla/Number-Drawer/blob/master/assets/numberdrawermobile.PNG?raw=true" alt="print-site2" width="300px">
 
+</div>
+
  <h3 align="center"> Versão Tablet</h3>
+
+<div align="center">
+ 
+<img src="https://github.com/EvertonDepla/Number-Drawer/blob/master/assets/numberdrawertablet.PNG?raw=true" margin-left="200px">
+
+ </div>
  
  <p>
 
